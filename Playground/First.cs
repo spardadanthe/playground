@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Playground
 {
-    class Program
+    class First
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("1stttttttttttttt");
-        }
     }
 }
